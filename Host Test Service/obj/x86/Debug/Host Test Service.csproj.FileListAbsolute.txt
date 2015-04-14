@@ -1,0 +1,19 @@
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.exe.config
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.exe
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.pdb
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.dll
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.pdb
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.csprojResolveAssemblyReference.cache
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.exe
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.pdb
+F:\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.exe
+F:\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.dll
+F:\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.pdb
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.exe.config
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.exe
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\bin\Debug\Host Test Service.pdb
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.dll
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\bin\Debug\ReadifyTestService.pdb
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.csprojResolveAssemblyReference.cache
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.exe
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\Host Test Service\obj\x86\Debug\Host Test Service.pdb

@@ -1,0 +1,10 @@
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\ReadifyTestService\bin\Debug\ReadifyTestService.dll.config
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\ReadifyTestService\bin\Debug\ReadifyTestService.dll
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\ReadifyTestService\bin\Debug\ReadifyTestService.pdb
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\ReadifyTestService\obj\Debug\ReadifyTestService.dll
+c:\users\emam\documents\visual studio 2010\Projects\ReadifyTestService\ReadifyTestService\obj\Debug\ReadifyTestService.pdb
+C:\Users\Emam\Documents\Visual Studio 2010\Projects\ReadifyTestService\ReadifyTestService\obj\Debug\ReadifyTestService.csprojResolveAssemblyReference.cache
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\ReadifyTestService\bin\Debug\ReadifyTestService.dll
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\ReadifyTestService\bin\Debug\ReadifyTestService.pdb
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\ReadifyTestService\obj\Debug\ReadifyTestService.dll
+C:\Users\Emam\Dropbox\readify\ReadifyTestService\ReadifyTestService\obj\Debug\ReadifyTestService.pdb
